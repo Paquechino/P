@@ -3,9 +3,9 @@
   "name": "Nombre",
   "version": "0.0.0",
   "description": "",
-  "main": ".js",
+  "main": "Chino.js",
   "scripts": {
-  "start": "node nombre del archivo creado anteriormente.js"
+  "start": "node Chino.js"
   },
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1"
