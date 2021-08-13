@@ -5,7 +5,7 @@
   "description": "",
   "main": "Chino.js",
   "scripts": {
-  "start": "node Chino.js"
+  "start": "node P.js"
   },
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1"
